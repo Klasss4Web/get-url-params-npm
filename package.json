@@ -7,7 +7,7 @@
   "types": "./dist/index.d.ts",
   "type": "module",
   "repository": {
-    "url": ""
+    "url": "https://github.com/Klasss4Web/get-url-params-npm"
   },
   "scripts": {
     "build": "tsup"
