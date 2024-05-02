@@ -1,0 +1,22 @@
+{
+  "name": "get-url-params",
+  "version": "1.0.0",
+  "description": "A simple function to get url params, pathnames and query params",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "type": "module",
+  "repository": {
+    "url": ""
+  },
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "url params",
+    "url pathname",
+    "url query params"
+  ],
+  "author": "klasss",
+  "license": "MIT"
+}
