@@ -1,5 +1,5 @@
 {
-  "name": "get-url-params",
+  "name": "easy-url-params",
   "version": "1.0.0",
   "description": "A simple function to get url params, pathnames and query params",
   "main": "./dist/index.js",
